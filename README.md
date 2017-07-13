@@ -2,7 +2,7 @@
 
 https://technologyconversations.com/2014/11/04/java-8-streams-micro-katas/
 
-Learn Java 8 Streaming using test-driven development approach (write the implementation for the first test, confirm that it passes and move to the next).
+Learn Java 8 Streaming using test-driven development approach.
 
 Java 8 map - 
 Convert elements of a collection to upper case.
